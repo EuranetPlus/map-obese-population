@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många personer i vår befolkning är överviktiga?",
+  "subtitle": "År 2025 var ungefär var sjätte person i EU fet. Malta och Lettland hade ungefär en fjärdedel av befolkningen i den kategorin, medan det i Italien bara var ungefär var femtonde.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Anmärkning: Andel av befolkningen 16 år och äldre som är överviktiga.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av den totala befolkningen",
   "tooltipExtraInfoLabel": "Klicka här"
 }
