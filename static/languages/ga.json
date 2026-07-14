@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad duine inár ndaonra atá murtallach?",
+  "subtitle": "Sa bhliain 2025, bhí thart ar dhuine as gach seisear san AE murtallach. Bhí thart ar cheathrú de dhaonra Mhálta agus na Laitvia sa lúibín sin, agus san Iodáil ní raibh ann ach duine as gach cúigear déag.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Nóta: Sciar den daonra atá 16 bliana d'aois agus os a chionn atá murtallach.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "den daonra iomlán",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
