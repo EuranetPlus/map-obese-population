@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko je ljudi u našoj populaciji pretilo?",
+  "subtitle": "U 2025. godini, otprilike svaka šesta osoba u EU bila je pretila. Malta i Latvija imale su oko četvrtinu stanovništva u toj skupini, dok je u Italiji to bilo samo otprilike jedna od petnaest.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Napomena: Udio stanovništva u dobi od 16 i više godina koji je pretili.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "ukupnog stanovništva",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
