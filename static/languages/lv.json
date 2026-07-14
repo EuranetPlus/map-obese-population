@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik cilvēku mūsu iedzīvotāju vidū ir aptaukojušies?",
+  "subtitle": "2025. gadā aptuveni katrs sestais iedzīvotājs ES bija aptaukojies. Maltā un Latvijā šajā grupā bija aptuveni ceturtā daļa iedzīvotāju, savukārt Itālijā šis skaitlis bija tikai aptuveni katrs piecpadsmitais.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Piezīme: Aptaukošanās skarto iedzīvotāju īpatsvars vecumā no 16 gadiem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "no kopējā iedzīvotāju skaita",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
