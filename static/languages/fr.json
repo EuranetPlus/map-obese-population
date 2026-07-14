@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de personnes obèses figurent dans notre population ?",
+  "subtitle": "En 2025, environ une personne sur six dans l'UE était obèse. À Malte et en Lettonie, environ un quart de la population était concernée, tandis qu'en Italie, ce chiffre n'était que d'environ une personne sur quinze.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Remarque : Part de la population âgée de 16 ans et plus qui est obèse.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "de la population totale",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
