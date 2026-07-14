@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile osób w naszym społeczeństwie jest otyłych?",
+  "subtitle": "W 2025 roku około jedna na sześć osób w UE była otyła. Na Malcie i Łotwie około jedna czwarta populacji znajdowała się w tej grupie, podczas gdy we Włoszech odsetek ten wynosił zaledwie około jedna na piętnaście osób.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Uwaga: Odsetek osób w wieku 16 lat i starszych cierpiących na otyłość.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "całkowitej populacji",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
